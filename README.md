@@ -33,11 +33,9 @@ Currently strengthening my skills in:
 - Database indexing & query optimization
 
 ### ⚙ DevOps & Tools
-- Docker
+- Docker(basic)
 - Nginx
 - Git
-- Linux
-- Postman
 
 ### 📊 Data & Processing
 - Pandas
