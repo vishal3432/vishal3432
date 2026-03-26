@@ -35,6 +35,8 @@ Currently strengthening my skills in:
 ### ⚙ DevOps & Tools
 - Docker(basic)
 - Nginx
+- Redis
+- Celery
 - Git
 
 ### 📊 Data & Processing
@@ -59,7 +61,20 @@ https://github.com/vishal3432/AI-Powered-Scalable-Task-File-Processing-Platform
 
 ---
 
-### 2️⃣ Rental Property Scraper API
+
+### 2️⃣ Ecommerce Smart Recommendation
+- Built an AI-powered e-commerce recommendation system
+- Used cosine similarity & vectorization for personalized suggestions
+- Processed data with Pandas, NumPy & Scikit-learn
+- Integrated with Django (REST APIs) for real-time recommendations
+- Optimized performance (~30–40% faster response)
+- Designed scalable modular architecture (MVC)  
+
+🔗 Repo:  
+https://github.com/vishal3432/Ecommerce_smart_recommendation
+
+---
+### 3️⃣ Rental Property Scraper API
 - Flask-based scraping API
 - Structured CSV export
 - Data parsing using BeautifulSoup
@@ -70,15 +85,6 @@ https://github.com/vishal3432/Rental-property-web-scraper-
 
 ---
 
-### 3️⃣ IoT Home Automation System
-- Arduino + sensor integration
-- Multi-room automation logic
-- Team-led major project
-
-🔗 Repo:  
-https://github.com/vishal3432/Home-Automation-Major-Project-
-
----
 
 ## 📫 Contact
 
