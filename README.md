@@ -65,10 +65,10 @@ https://github.com/vishal3432/AI-Powered-Scalable-Task-File-Processing-Platform
 ### 2️⃣ Ecommerce Smart Recommendation
 - Built an AI-powered e-commerce recommendation system
 - Used cosine similarity & vectorization for personalized suggestions
-- Processed data with Pandas, NumPy & Scikit-learn
+- Processed data with Panda & Scikit-learn
 - Integrated with Django (REST APIs) for real-time recommendations
 - Optimized performance (~30–40% faster response)
-- Designed scalable modular architecture (MVC)  
+- Designed scalable modular architecture (MVT)  
 
 🔗 Repo:  
 https://github.com/vishal3432/Ecommerce_smart_recommendation
