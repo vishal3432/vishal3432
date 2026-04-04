@@ -49,20 +49,7 @@ Currently strengthening my skills in:
 
 ## 🔥 Featured Projects
 
-### 1️⃣ AI-Based Asynchronous File Processing API
-- 10+ REST endpoints (Auth + Processing + WebSocket + Health)
-- JWT Authentication
-- Async background processing
-- Dockerized multi-service architecture
-- PostgreSQL integration
-
-🔗 Repo:  
-https://github.com/vishal3432/AI-Powered-Scalable-Task-File-Processing-Platform
-
----
-
-
-### 2️⃣ Ecommerce Smart Recommendation
+### 1️⃣ Ecommerce Smart Recommendation
 - Built an AI-powered e-commerce recommendation system
 - Used cosine similarity & vectorization for personalized suggestions
 - Processed data with Pandas & Scikit-learn.
@@ -74,6 +61,19 @@ https://github.com/vishal3432/AI-Powered-Scalable-Task-File-Processing-Platform
 https://github.com/vishal3432/Ecommerce_smart_recommendation
 
 ---
+
+### 2️⃣ AI-Based Asynchronous File Processing API
+- 10+ REST endpoints (Auth + Processing + WebSocket + Health)
+- JWT Authentication
+- Async background processing
+- Dockerized multi-service architecture
+- PostgreSQL integration
+
+🔗 Repo:  
+https://github.com/vishal3432/AI-Powered-Scalable-Task-File-Processing-Platform
+
+---
+
 ### 3️⃣ Rental Property Scraper API
 - Flask-based scraping API
 - Structured CSV export
