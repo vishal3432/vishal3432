@@ -100,20 +100,26 @@ Built an AI-powered product recommendation system that tracks what users like an
 - Scalable modular MVT architecture
 
 🔗 Repo: https://github.com/vishal3432/Ecommerce_smart_recommendation
+🚀 Live Demo : https://ecommerce-smart-recommendation-crp8.onrender.com
 
 ---
 
 ### 3️⃣ Rental Property Scraper API
-> *Flask API that scrapes and structures rental listing data*
+> *Scrapes rental listings, removes duplicates using ML, and recommends similar properties via REST API *
 
 A lightweight scraping API that pulls rental property listings, parses them into structured data, and exports to CSV — deployed live on Render.
 
-**Tech:** Flask · BeautifulSoup · Pandas · Render  
+**Tech:** FastAPI · BeautifulSoup · Scikit-learn · NumPy · SQLAlchemy · PostgreSQL · Celery · Redis · Docker 
 **Highlights:**
-- Clean parsed output with structured CSV export
-- Deployed and publicly accessible via Render
+ - Scrapes and parses rental listings with address, price, and link extraction
+ - Auto-deduplicates listings using TF-IDF + cosine similarity before saving
+ - Recommends similar properties based on embedding similarity
+ - Async background scraping via Celery with auto-retry and exponential backoff
+ - Search by address and filter by price range with pagination
+ - Dockerized with PostgreSQL, Redis, and deployed on Render
 
 🔗 Repo: https://github.com/vishal3432/Rental-property-web-scraper-
+🚀 Live Demo : https://rental-property-web-scraper-1.onrender.com/docs
 
 ---
 
