@@ -100,6 +100,7 @@ Built an AI-powered product recommendation system that tracks what users like an
 - Scalable modular MVT architecture
 
 🔗 Repo: https://github.com/vishal3432/Ecommerce_smart_recommendation
+
 🚀 Live Demo : https://ecommerce-smart-recommendation-crp8.onrender.com
 
 ---
@@ -119,6 +120,7 @@ A lightweight scraping API that pulls rental property listings, parses them into
  - Dockerized with PostgreSQL, Redis, and deployed on Render
 
 🔗 Repo: https://github.com/vishal3432/Rental-property-web-scraper-
+
 🚀 Live Demo : https://rental-property-web-scraper-1.onrender.com/docs
 
 ---
